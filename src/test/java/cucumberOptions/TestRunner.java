@@ -11,7 +11,7 @@ import io.cucumber.junit.CucumberOptions;
 		features="src/test/java/features",
 		glue="stepDefinations" , stepNotifications=true , monochrome=true,
 		
-		tags="@ahmad or @Mobiletest" 
+		tags="@ahmad " 
 		
 		
 		)
